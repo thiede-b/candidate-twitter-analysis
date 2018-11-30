@@ -2,7 +2,6 @@
 
 # Congressional Candidate Twitter Scraping and NLP Analysis
 
-# ------------------------------------------
 
 This Python program was originally written to gather Twitter data from candidates running for office in each of 8 congressional districts in Minnesota to use as part of a statistical model for predicting voter turnout in the 2018 Midterm Election. While it was originally written for Minnesota (which has 8 congressional districts), it could easily be changed to accommodate different numbers of districts.
 
@@ -18,7 +17,6 @@ This works with Python 2.x versions currently (tested on 2.7).
 In a Terminal: 
 	$ python2.7 twitter.py
 
-# ------------------------------------------
 
 # To use the program, you will need to have several things installed:
 
@@ -54,5 +52,4 @@ In a Terminal:
 
 
 
-# ------------------------------------------
 Last Updated: 11/29/2018
